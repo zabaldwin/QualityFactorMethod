@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 
 ## Overview 
-**__Scripts to Perform a Multidimensional, Event-By-Event, Statistical Weighting Procedure for Signal to Background Separation__**
+Provided are scripts to perform a multidimensional, event-by-event, statistical weighting procedure for signal to background separation. 
 
 
 ## Inspiration and foundation adapted from [lan13005/Q-Factors](https://github.com/lan13005/Q-Factors)
@@ -28,4 +28,6 @@
 
 
 ## Documentation
+
+## Example
 
